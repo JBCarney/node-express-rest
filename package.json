@@ -9,6 +9,10 @@
   "author": "Jason Carney",
   "license": "ISC",
   "dependencies": {
-    "express": "4.15.0"
+    "express": "4.15.0",
+    "mongoose": "^4.11.0"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.2.1"
   }
 }
